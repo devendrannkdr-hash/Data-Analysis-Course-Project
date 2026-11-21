@@ -236,5 +236,3 @@ WHERE p.purchase_id IS NULL;
 | Top courses by quantity | Advanced Excel and Power BI Training – 3 each |
 | Learner purchasing from multiple categories | Priya Sharma |
 | Courses without purchases | 0 |
-
-*All screenshots in this document are the screenshots embedded in the supplied `Tasks.docx`, placed directly below their corresponding SQL section.*
