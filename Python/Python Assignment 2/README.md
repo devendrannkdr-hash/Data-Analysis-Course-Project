@@ -122,6 +122,7 @@ Enter your score (0 to 10): 7
 Average: Good effort! Keep practicing, there's room for improvement.
 ```
 
+**Google folder link : [Google Colab](https://drive.google.com/drive/folders/1hXvTGaHSJNsdjnM7IPuOXWwy337J5Oaq?usp=sharing)**
 ## Concepts Practised
 
 -   List creation, `append()`, `insert()`, `remove()`, `pop()`,
