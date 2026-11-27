@@ -86,7 +86,7 @@ Last Three Elements: (40, 50, 60)
 
 ## How to Run
 
-1. Open the `.ipynb` notebook in [Google Colab](https://colab.research.google.com/) or Jupyter Notebook.
+1. Open the `.ipynb` notebook in [Google Colab](https://drive.google.com/drive/folders/1hXvTGaHSJNsdjnM7IPuOXWwy337J5Oaq?usp=sharing) or Jupyter Notebook.
 2. Run the code cells in order, starting with Question 1.
 3. When prompted, enter a name (for example, `Zara`).
 4. Confirm that the displayed outputs match the sample outputs above.
