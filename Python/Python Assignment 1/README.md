@@ -67,6 +67,7 @@ Create the tuples `(10, 20, 30)` and `(40, 50, 60)`, then:
 
 **Sample output**
 
+**Google folder link : [Google Colab](https://drive.google.com/drive/folders/1hXvTGaHSJNsdjnM7IPuOXWwy337J5Oaq?usp=sharing)**
 ```text
 Combined Tuple: (10, 20, 30, 40, 50, 60)
 Repeated Tuple: (10, 20, 30, 40, 50, 60, 10, 20, 30, 40, 50, 60, 10, 20, 30, 40, 50, 60)
